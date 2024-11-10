@@ -2,11 +2,11 @@
 <html style="font-size: 16px;" lang="en"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="​Philosophy &amp;amp; Values">
+    <meta name="keywords" content="">
     <meta name="description" content="">
-    <title>About</title>
+    <title>Contact</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="About.css" media="screen">
+<link rel="stylesheet" href="Contact.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 6.21.3, nicepage.com">
@@ -20,7 +20,7 @@
 		"name": ""
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="About">
+    <meta property="og:title" content="Contact">
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-e397"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
@@ -53,7 +53,7 @@
         </nav>
         <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/tom21.svg" alt="" data-image-width="137" data-image-height="150">
       </div></header>
-    <section class="u-clearfix u-section-1" id="sec-0c21">
+    <section class="u-clearfix u-section-1" id="sec-c7f9">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <div class="data-layout-selected u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
           <div class="u-layout">
@@ -64,8 +64,8 @@
                 </div>
               </div>
               <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
-                <div class="u-container-layout u-valign-middle u-container-layout-2">
-                  <p class="u-align-center-xs u-text u-text-default u-text-1"> I am a Senior Sales Associate at&nbsp;Majid Al Futtaim Lifestyle with a strong passion for design and technology.&nbsp;With extensive experience in 3D printing, injection molding, production, and product design, I combine technical expertise with a creative approach to solving complex challenges. My skills span 3D design, mold design, robotics, and basic programming, all of which I have applied in both technical and non-technical projects. I am driven by a desire to continually grow and push the boundaries of innovation. I thrive in environments where I can apply my knowledge and hands-on experience to deliver practical, high-quality solutions.</p>
+                <div class="u-container-layout u-valign-middle-md u-valign-middle-sm u-valign-middle-xs u-valign-top-lg u-valign-top-xl u-container-layout-2">
+                  <h3 class="u-align-center-xs u-align-right-md u-align-right-sm u-text u-text-default u-text-1">contact@yousefalmazrouei.com </h3>
                 </div>
               </div>
             </div>
@@ -77,6 +77,13 @@
     
     
     
-    
+    <section class="u-backlink u-clearfix u-grey-80">
+      <p class="u-text">
+        <span>This site was created with the </span>
+        <a class="u-link" href="https://nicepage.com/" target="_blank" rel="nofollow">
+          <span>Nicepage</span>
+        </a>
+      </p>
+    </section>
   
 </body></html>
