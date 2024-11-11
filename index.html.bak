@@ -5,7 +5,7 @@
     <meta name="keywords" content="Yousef&nbsp;Al Mazrouei, Experiences, ​Portfolio, ​Build your website
 in record time, INTUITIVE">
     <meta name="description" content="">
-    <title>Home</title>
+    <title>Yousef Al Mazrouei</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
 <link rel="stylesheet" href="index.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
@@ -26,11 +26,11 @@ in record time, INTUITIVE">
 		"name": ""
 }</script>
     <meta name="theme-color" content="#478ac9">
-    <meta property="og:title" content="Home">
+    <meta property="og:title" content="Yousef Al Mazrouei">
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
-  <body data-home-page="Home.html" data-home-page-title="Home" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-e397"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1">
+  <body data-home-page="Yousef-Al-Mazrouei.html" data-home-page-title="Yousef Al Mazrouei" data-path-to-root="./" data-include-products="false" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-e397"><div class="u-clearfix u-sheet u-sheet-1">
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px;">
             <a class="u-button-style u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-top-bottom-menu-spacing u-hamburger-link u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
               <svg class="u-svg-link" viewBox="0 0 24 24"><use xlink:href="#menu-hamburger"></use></svg>
@@ -38,35 +38,35 @@ in record time, INTUITIVE">
 </g></svg>
             </a>
           </div>
-          <div class="u-nav-container">
-            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="./" style="padding: 10px 20px;">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="About.html" style="padding: 10px 20px;">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="Contact.html" style="padding: 10px 20px;">Contact</a>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="./#carousel_d96b" style="padding: 10px 20px;">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="./#carousel_f731" style="padding: 10px 20px;">SlimeVR</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="./#carousel_3886" style="padding: 10px 20px;">3D Printing</a>
 </li></ul>
           </div>
-          <div class="u-nav-container-collapse">
+          <div class="u-custom-menu u-nav-container-collapse">
             <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
               <div class="u-inner-container-layout u-sidenav-overflow">
                 <div class="u-menu-close"></div>
-                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="./">Home</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="About.html">About</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Contact.html">Contact</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="./#carousel_d96b">About</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="./#carousel_f731">SlimeVR</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="./#carousel_3886">3D Printing</a>
 </li></ul>
               </div>
             </div>
             <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
           </div>
         </nav>
-        <img class="u-image u-image-default u-preserve-proportions u-image-1" src="images/tom21.svg" alt="" data-image-width="137" data-image-height="150">
+        <img class="u-image u-image-default u-image-1" src="images/tom21.svg" alt="" data-image-width="137" data-image-height="150">
       </div></header>
-    <section class="u-clearfix u-image u-section-1" id="carousel_1238" data-image-width="1980" data-image-height="1320">
+    <section class="u-clearfix u-image u-valign-bottom-xs u-section-1" id="carousel_1238" data-image-width="1980" data-image-height="1320">
       <div class="data-layout-selected u-clearfix u-expanded-width-xs u-layout-wrap u-layout-wrap-1">
         <div class="u-gutter-0 u-layout" style="">
           <div class="u-layout-row" style="">
-            <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-size-27-lg u-size-27-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="0">
+            <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-size-24-lg u-size-24-xl u-size-60-md u-size-60-sm u-size-60-xs u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="0">
               <div class="u-container-layout u-container-layout-1">
                 <h3 class="u-align-left u-text u-text-body-alt-color u-text-1"> I’m an industrial designer.</h3>
-                <h2 class="u-align-left u-text u-text-body-alt-color u-text-2" data-animation-name="customAnimationIn" data-animation-duration="1250" data-animation-delay="750">Yousef&nbsp;<br>Al Mazrouei
+                <h2 class="u-align-left u-text u-text-body-alt-color u-text-2">Yousef&nbsp;<br>Al Mazrouei
                 </h2>
                 <div class="u-align-left u-border-1 u-border-palette-5-light-1 u-line u-line-horizontal u-opacity u-opacity-30 u-line-1"></div>
                 <p class="u-align-left u-text u-text-palette-5-light-2 u-text-3">Address:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-weight: 400;">Abu Dhabi, United Arab Emirates</span>
@@ -78,7 +78,7 @@ in record time, INTUITIVE">
                 </p>
               </div>
             </div>
-            <div class="u-container-align-center u-container-style u-image u-layout-cell u-size-33-lg u-size-33-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1" data-image-width="1368" data-image-height="1336" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="0">
+            <div class="u-container-align-center u-container-style u-image u-layout-cell u-size-36-lg u-size-36-xl u-size-60-md u-size-60-sm u-size-60-xs u-image-1" data-image-width="1368" data-image-height="1336">
               <div class="u-container-layout u-container-layout-2"></div>
             </div>
           </div>
@@ -108,7 +108,7 @@ in record time, INTUITIVE">
     </section>
     <section class="u-align-center u-clearfix u-container-align-center u-palette-5-dark-3 u-section-3" id="carousel_f731">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-align-center u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750"><b>CAD Designer / SlimeVR Contributor</b>
+        <h2 class="u-align-center u-text u-text-1"><b>CAD Designer / SlimeVR Contributor</b>
         </h2>
         <p class="u-align-center u-text u-text-2">What is SlimeVR ?<br>SlimeVR&nbsp;is a set of open hardware sensors and open source software that facilitates full-body tracking (FBT) in virtual reality. With no base station required, SlimeVR makes wireless VR FBT affordable and comfortable.<br>
           <br>
@@ -117,41 +117,41 @@ in record time, INTUITIVE">
         <p class="u-align-center u-text u-text-3" data-animation-name="customAnimationIn" data-animation-duration="1250" data-animation-delay="750">Some of the work I've done.</p>
         <div class="u-expanded-width u-list u-list-1">
           <div class="u-repeater u-repeater-1">
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-1" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-1" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
                 <img class="u-expanded-width u-image u-image-2" src="images/DSC04973.webp" data-image-width="823" data-image-height="549">
                 <h5 class="u-align-center u-text u-text-4" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR Main Case (Purple PC plastic)</h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-2" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-2" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
                 <img class="u-expanded-width u-image u-image-3" src="images/DSC04984.webp" data-image-width="823" data-image-height="549">
                 <h5 class="u-align-center u-text u-text-5" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR Main Case&nbsp;<br>(Black PC plastic)
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-3" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-3" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
                 <img class="u-expanded-width u-image u-image-4" src="images/DSC04975.webp" data-image-width="823" data-image-height="549">
-                <h5 class="u-align-center u-text u-text-6" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR Main Case&nbsp;<br>(Whtie PC plastic)
+                <h5 class="u-align-center u-text u-text-6" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR Main Case&nbsp;<br>(White PC plastic)
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-4" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-4" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
                 <img class="u-expanded-width u-image u-image-5" src="images/slimevr-update-23-3_jpg_md-xl.jpg" data-image-width="1599" data-image-height="1201">
                 <h5 class="u-align-center u-text u-text-7" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR Main / Extension Cases 1st Production Run<br>(Purple ABS plastic)
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-5" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-5" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
                 <img class="u-expanded-width u-image u-image-6" src="images/IMG_20230303_124818.jpg" data-image-width="4000" data-image-height="3000">
                 <h5 class="u-align-center u-text u-text-8" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">Prototype Extension Case<br>(Translucent ABS)
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-6" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-6" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-6">
                 <img class="u-expanded-width u-image u-image-7" src="images/IMG_20221221_204700.jpg" data-image-width="4000" data-image-height="2035">
                 <h5 class="u-align-center u-text u-text-9" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> Prototype Main Case<br>(Transparent ABS)
@@ -167,43 +167,43 @@ in record time, INTUITIVE">
         <h2 class="u-text u-text-1">Non Injection Molding work</h2>
         <div class="u-expanded-width u-list u-list-1">
           <div class="u-repeater u-repeater-1">
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-1" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
-              <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-1">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-1" src="">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
                 <img class="u-expanded-width u-image u-image-1" src="images/quick_prepare.png" data-image-width="2100" data-image-height="1282">
                 <h5 class="u-align-center u-text u-text-2" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR GUI&nbsp;<br> Preparations Tutorial
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-2" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
-              <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-2">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-2" src="">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
                 <img class="u-expanded-width u-image u-image-2" src="images/quick_calibrate.png" data-image-width="2100" data-image-height="1282">
                 <h5 class="u-align-center u-text u-text-3" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR GUI Calibration Tutorial</h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-3" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
-              <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-3">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-3" src="">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
                 <img class="u-expanded-width u-image u-image-3" src="images/docs.png" data-image-width="1920" data-image-height="951">
                 <h5 class="u-align-center u-text u-text-4" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR ​Documentation<br>
                   <br>
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-4" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
-              <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-4">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-4" src="">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
                 <img class="u-expanded-width u-image u-image-4" src="images/rotatedimu.jpg" data-image-width="4032" data-image-height="3024">
                 <h5 class="u-align-center u-text u-text-5" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> SlimeVR ​Experimental IMU Based Finger Tracking&nbsp;&nbsp;</h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-5" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
-              <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-5">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-5" src="">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
                 <img class="u-expanded-width u-image u-image-5" src="images/SPOILER_Orange.jpg" data-image-width="4030" data-image-height="2127">
                 <h5 class="u-align-center u-text u-text-6" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">Prototype 3D Printed Cases (Orange ASA)</h5>
               </div>
             </div>
             <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-6" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
-              <div class="u-container-layout u-similar-container u-valign-top-lg u-valign-top-md u-valign-top-sm u-valign-top-xl u-container-layout-6">
+              <div class="u-container-layout u-similar-container u-valign-top u-container-layout-6">
                 <img class="u-expanded-width u-image u-image-6" src="images/IMG_1072.jpg" data-image-width="3023" data-image-height="3023">
-                <h5 class="u-align-center u-text u-text-7" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> Prototype Soldering Jig<br>(Pink ABS)
+                <h5 class="u-align-center u-text u-text-7"> Prototype Soldering Jig<br>(Pink ABS)
                 </h5>
               </div>
             </div>
@@ -213,54 +213,54 @@ in record time, INTUITIVE">
     </section>
     <section class="u-align-center u-clearfix u-container-align-center u-palette-5-dark-3 u-section-5" id="carousel_3886">
       <div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
-        <h2 class="u-align-center u-text u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="750">Building 3D Printers</h2>
+        <h2 class="u-align-center u-text u-text-1">Building 3D Printers</h2>
         <p class="u-align-center u-text u-text-2">What is 3D Printing?<br>3D printing or additive manufacturing is the construction of a three-dimensional object from a CAD model or a digital 3D model<br><b></b>
           <br>
           <br>
         </p>
         <img class="u-align-center-md u-align-center-sm u-align-center-xs u-image u-image-circle u-image-1" src="images/IMG_9533.jpg" alt="" data-image-width="3024" data-image-height="4032">
-        <p class="u-align-center u-text u-text-3" data-animation-name="customAnimationIn" data-animation-duration="1250" data-animation-delay="750">Some of the printers I've built / Owned throughout the years</p>
+        <p class="u-align-center u-text u-text-3">Some of the printers I've built / Owned throughout the years</p>
         <div class="u-expanded-width u-list u-list-1">
           <div class="u-repeater u-repeater-1">
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-1" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-1" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
                 <img class="u-expanded-width u-image u-image-2" src="images/FBE2D948-07A3-4FBE-9FEE-1636507E2919.jpg" data-image-width="3024" data-image-height="4032">
                 <h5 class="u-align-center u-text u-text-4" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">Modified Creality Ender 3<br>2018 
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-2" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-2" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
                 <img class="u-expanded-width u-image u-image-3" src="images/IMG_2865.jpg" data-image-width="3024" data-image-height="4032">
                 <h5 class="u-align-center u-text u-text-5" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">Voron Design V2.4 R2<br>2022
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-3" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-3" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
                 <img class="u-expanded-width u-image u-image-4" src="images/IMG_2866.jpg" data-image-width="3024" data-image-height="4032">
                 <h5 class="u-align-center u-text u-text-6" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">Voron Design V0.2 R1<br>2023
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-4" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-4" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
                 <img class="u-expanded-width u-image u-image-5" src="images/IMG_2868.jpg" data-image-width="3024" data-image-height="4032">
                 <h5 class="u-align-center u-text u-text-7" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> Bambu Lab P1S<br>2024
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-5" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-5" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
                 <img class="u-expanded-width u-image u-image-6" src="images/086fe167-297f-419a-9551-f6b3be45f8e4.webp" data-image-width="720" data-image-height="960">
                 <h5 class="u-align-center u-text u-text-8" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> Fidget Geared Coin Design For YouTuber: BossKerati<br>2023
                 </h5>
               </div>
             </div>
-            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-6" src="" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500">
+            <div class="u-align-center u-container-align-center u-container-style u-list-item u-repeater-item u-white u-list-item-6" src="">
               <div class="u-container-layout u-similar-container u-valign-top u-container-layout-6">
                 <img class="u-expanded-width u-image u-image-7" src="images/coin.png" data-image-width="972" data-image-height="544">
-                <h5 class="u-align-center u-text u-text-9" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> Business Coin<br>2024 
+                <h5 class="u-align-center u-text u-text-9" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="500"> Business Chip<br>2024 
                 </h5>
               </div>
             </div>
@@ -273,7 +273,7 @@ in record time, INTUITIVE">
         <div class="u-container-align-center-md u-container-align-center-sm u-container-style u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-group u-shape-rectangle u-group-1">
           <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-container-layout-1">
             <h3 class="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-body-alt-color u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="0"> About me</h3>
-            <p class="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-body-alt-color u-text-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500"> I am a Senior Sales Associate at&nbsp;Majid Al Futtaim Lifestyle with a strong passion for design and technology.&nbsp;With extensive experience in 3D printing, injection molding, production, and product design, I combine technical expertise with a creative approach to solving complex challenges. My skills span CAD design, mold design, robotics, and basic programming, all of which I have applied in both technical and non-technical projects. I am driven by a desire to continually grow and push the boundaries of innovation. I thrive in environments where I can apply my knowledge and hands-on experience to deliver practical, high-quality solutions.<br>
+            <p class="u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-text u-text-body-alt-color u-text-2"> I am a Senior Sales Associate at&nbsp;Majid Al Futtaim Lifestyle with a strong passion for design and technology.&nbsp;With extensive experience in 3D printing, injection molding, production, and product design, I combine technical expertise with a creative approach to solving complex challenges. My skills span CAD design, mold design, robotics, and basic programming, all of which I have applied in both technical and non-technical projects. I am driven by a desire to continually grow and push the boundaries of innovation. I thrive in environments where I can apply my knowledge and hands-on experience to deliver practical, high-quality solutions.<br>
             </p>
             <a href="mailto:contact@yousefalmazrouei.com" class="u-active-white u-align-center-md u-align-center-sm u-align-center-xs u-align-left-lg u-align-left-xl u-border-none u-btn u-btn-round u-button-style u-hover-white u-palette-3-base u-radius-8 u-text-active-grey-80 u-text-body-alt-color u-text-hover-grey-80 u-btn-1" data-animation-name="customAnimationIn" data-animation-duration="1750" data-animation-delay="750">contact me </a>
           </div>
